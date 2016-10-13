@@ -213,7 +213,7 @@ function create_config( )
       "Clash_of_Clans",
       "plugins"
       },
-    sudo_users = {109722284,87160007},
+    sudo_users = {91112540},
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'}
   }
